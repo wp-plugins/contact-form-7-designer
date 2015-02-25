@@ -100,14 +100,8 @@ Bug reports for [Contact Form 7 Designer are welcomed on GitHub](https://github.
 
 == Screenshots ==
 
-1. Simple or advanced MailChimp sign-up forms that blend in with your theme.
-2. A sign-up checkbox in your comment form is an amazing conversion booster.
-3. A simple form in the footer of the Twenty Thirteen theme.
-4. Add sign-up checkboxes to various places on your site.
-5. Creating sign-up forms for your MailChimp lists is easy. The Pro version allows you to create as many form as you like.
-6. Write your own HTML or have it generated for you. Many (optional) customization settings are availabl.
-7. **Pro only:** Gain valuable insights which method your visitors used to subscribe for any given time period using beautiful line charts.
-8. **Pro only:** Create your own CSS styles with the form designer in the Pro version.
+1. A Contact Form 7 example with light styling.
+2. A Contact Form 7 example with dark styling.
 
 == Changelog ==
 
